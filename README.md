@@ -3,7 +3,7 @@
 To run the project
 
 - Download the file
-- Extract from the zip file
+- Extract the file from the zip
 - Open Eclipse
 - Import to the file
 - Click Run
